@@ -10,5 +10,5 @@ I'm currently Learning<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ziad-Thabet&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Thabet&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ziad-Thabet&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ziad-Thabet&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
